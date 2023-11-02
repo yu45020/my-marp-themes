@@ -31,9 +31,10 @@ header {
   top: 96.2%;
   width: 100%;
   right: 0;
-  left: 10%;
+  left: 0%;
   color: white;
-  background: #216fa6;
+  text-indent: 40px;
+  background: #2238b3;
 }
 
 footer {
