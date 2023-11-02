@@ -25,7 +25,7 @@ section {
 header {
   font-size: 0.6em;
   /* this text-align is important */
-  text-align: right;
+  text-align: left;
   /* I don't like this absolute positioning, but it works */
   position: absolute;
   top: 96.2%;
