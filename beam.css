@@ -31,8 +31,9 @@ header {
   top: 96.2%;
   width: 100%;
   right: 0;
-  left: 0;
+  left: 10%;
   color: white;
+  background: #216fa6;
 }
 
 footer {
