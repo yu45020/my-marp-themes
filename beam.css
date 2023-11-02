@@ -6,7 +6,7 @@
 @import "default";
 
 :root {
-  font-family: "CMU Sans Serif", "Segoe UI", Helvetica, sans-serif;
+  font-family: "CMU Serif Roman","Segoe UI", Helvetica, sans-serif;
   --main: #1f38c5;
   --secondary: #141414;
 }
